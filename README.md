@@ -1,2 +1,54 @@
 # Leetcode-75
 Solutions to the LeetCode 75 curated list for mastering data structures and algorithms. Clean code, optimized logic, and explanations.
+
+# LeetCode 75 - C++ Solutions 🚀
+
+This repository contains my C++ solutions to the **LeetCode 75 Study Plan** – a curated list of 75 problems to help strengthen core Data Structures and Algorithms for coding interviews.
+
+---
+
+## 🧠 About the Challenge
+
+LeetCode 75 is designed to help you:
+- Master common coding patterns
+- Build a solid DSA foundation
+- Prepare effectively for technical interviews
+
+🔗 [Official LeetCode 75 Plan](https://leetcode.com/studyplan/leetcode-75/)
+
+---
+
+## 💻 Language Used
+
+All solutions are written in **C++**, focusing on:
+- Clean and readable code
+- Optimized time and space complexity
+- Comments explaining logic wherever needed
+
+---
+
+🌟 Features
+📌 Structured folder for each problem
+
+🧠 Optimized C++ code with comments
+
+📝 Approach explanation in each sub-folder
+
+🧪 Easy to extend or test
+
+🔖 Beginner-friendly formatting
+
+---
+
+👩‍💻 About Me
+Hi! I'm Khushi Garg, a BTech student passionate about Data Structures and Algorithms.
+I built this repo to improve my C++ skills and interview prep.
+
+📫 GitHub | LinkedIn (update if needed)
+
+📄 License
+This project is licensed under the MIT License – feel free to use or contribute.
+
+⭐ If you find this helpful, don't forget to star the repo!
+Happy Coding! 💻✨
+

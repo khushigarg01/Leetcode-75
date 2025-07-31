@@ -49,3 +49,15 @@ I built this repo to improve my C++ skills and interview prep.
 ⭐ If you find this helpful, don't forget to star the repo!
 Happy Coding! 💻✨
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/khushigarg01/Leetcode-75/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/khushigarg01/Leetcode-75/tree/master/1894-merge-strings-alternately) |
+<!---LeetCode Topics End-->

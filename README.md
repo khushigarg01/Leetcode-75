@@ -44,10 +44,7 @@ All solutions are written in **C++**, focusing on:
 Hi! I'm Khushi Garg, a BTech student passionate about Data Structures and Algorithms.
 I built this repo to improve my C++ skills and interview prep.
 
-📫 GitHub | LinkedIn (update if needed)
-
-📄 License
-This project is licensed under the MIT License – feel free to use or contribute.
+---
 
 ⭐ If you find this helpful, don't forget to star the repo!
 Happy Coding! 💻✨

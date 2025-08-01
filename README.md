@@ -1,6 +1,3 @@
-# Leetcode-75
-Solutions to the LeetCode 75 curated list for mastering data structures and algorithms. Clean code, optimized logic, and explanations.
-
 # LeetCode 75 - C++ Solutions 🚀
 
 This repository contains my C++ solutions to the **LeetCode 75 Study Plan** – a curated list of 75 problems to help strengthen core Data Structures and Algorithms for coding interviews.

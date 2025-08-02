@@ -67,8 +67,18 @@ Happy Coding! 💻✨
 | ------- |
 | [0605-can-place-flowers](https://github.com/khushigarg01/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/khushigarg01/Leetcode-75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/khushigarg01/Leetcode-75/tree/master/0605-can-place-flowers) |
+| [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
+## Hash Table
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
+## Sort
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->

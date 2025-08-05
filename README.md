@@ -58,6 +58,7 @@ Happy Coding! 💻✨
 | [0345-reverse-vowels-of-a-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/khushigarg01/Leetcode-75/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/khushigarg01/Leetcode-75/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -81,6 +82,7 @@ Happy Coding! 💻✨
 | [0334-increasing-triplet-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/khushigarg01/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/khushigarg01/Leetcode-75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -92,6 +94,7 @@ Happy Coding! 💻✨
 ## Hash Table
 |  |
 | ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
@@ -105,4 +108,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->

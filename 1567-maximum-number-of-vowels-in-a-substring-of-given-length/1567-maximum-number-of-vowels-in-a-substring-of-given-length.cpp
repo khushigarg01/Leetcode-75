@@ -12,14 +12,12 @@ public:
             if (isVowel(s[r])) {
                 count++;
             }
-            if ((r - l + 1) > k) {
+            if ((r - l + 1) == k) {
+                maxCount = max(count, maxCount);
                 if (isVowel(s[l])) {
                     count--;
                 }
                 l++;
-            }
-            if ((r - l + 1) == k) {
-                maxCount = max(count, maxCount);
             }
             r++;
         }

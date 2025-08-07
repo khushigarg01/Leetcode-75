@@ -68,6 +68,7 @@ Happy Coding! 💻✨
 | [0392-is-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/khushigarg01/Leetcode-75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/khushigarg01/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushigarg01/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/khushigarg01/Leetcode-75/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -117,4 +118,5 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/khushigarg01/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushigarg01/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->

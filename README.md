@@ -73,6 +73,7 @@ Happy Coding! 💻✨
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/khushigarg01/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -129,4 +130,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/khushigarg01/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

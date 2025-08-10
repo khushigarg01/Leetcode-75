@@ -74,6 +74,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/khushigarg01/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -103,6 +104,7 @@ Happy Coding! 💻✨
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/khushigarg01/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
@@ -126,6 +128,7 @@ Happy Coding! 💻✨
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -146,4 +149,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->

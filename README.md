@@ -90,6 +90,7 @@ Happy Coding! 💻✨
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/khushigarg01/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/khushigarg01/Leetcode-75/tree/master/2102-find-the-middle-index-in-array) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -114,6 +115,7 @@ Happy Coding! 💻✨
 | [0724-find-pivot-index](https://github.com/khushigarg01/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/khushigarg01/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/khushigarg01/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/khushigarg01/Leetcode-75/tree/master/2102-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |

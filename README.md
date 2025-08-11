@@ -96,6 +96,7 @@ Happy Coding! 💻✨
 | [1833-find-the-highest-altitude](https://github.com/khushigarg01/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/khushigarg01/Leetcode-75/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/khushigarg01/Leetcode-75/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2428-equal-row-and-column-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -112,6 +113,7 @@ Happy Coding! 💻✨
 | [1392-find-the-difference-of-two-arrays](https://github.com/khushigarg01/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/khushigarg01/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
@@ -167,4 +169,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->

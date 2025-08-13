@@ -76,6 +76,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/khushigarg01/Leetcode-75/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/khushigarg01/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -162,6 +163,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/khushigarg01/Leetcode-75/tree/master/0326-power-of-three) |
 ## Counting
 |  |
 | ------- |

@@ -87,6 +87,7 @@ Happy Coding! 💻✨
 | [0238-product-of-array-except-self](https://github.com/khushigarg01/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [0575-distribute-candies](https://github.com/khushigarg01/Leetcode-75/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/khushigarg01/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/khushigarg01/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/khushigarg01/Leetcode-75/tree/master/0724-find-pivot-index) |
@@ -111,6 +112,7 @@ Happy Coding! 💻✨
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/khushigarg01/Leetcode-75/tree/master/0575-distribute-candies) |
 | [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 | [1319-unique-number-of-occurrences](https://github.com/khushigarg01/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/khushigarg01/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |

@@ -67,6 +67,7 @@ Happy Coding! 💻✨
 | [0151-reverse-words-in-a-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/khushigarg01/Leetcode-75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/khushigarg01/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushigarg01/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -171,6 +172,7 @@ Happy Coding! 💻✨
 | [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/khushigarg01/Leetcode-75/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/khushigarg01/Leetcode-75/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Happy Coding! 💻✨
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/khushigarg01/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/khushigarg01/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

@@ -87,6 +87,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushigarg01/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0027-remove-element) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/khushigarg01/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
@@ -159,6 +160,7 @@ Happy Coding! 💻✨
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/khushigarg01/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/khushigarg01/Leetcode-75/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Bit Manipulation

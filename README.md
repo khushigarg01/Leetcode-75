@@ -69,6 +69,7 @@ Happy Coding! 💻✨
 | [0392-is-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/khushigarg01/Leetcode-75/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/khushigarg01/Leetcode-75/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/khushigarg01/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushigarg01/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/khushigarg01/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -114,6 +115,7 @@ Happy Coding! 💻✨
 | [0011-container-with-most-water](https://github.com/khushigarg01/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/khushigarg01/Leetcode-75/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/khushigarg01/Leetcode-75/tree/master/0649-dota2-senate) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
@@ -209,6 +211,7 @@ Happy Coding! 💻✨
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/khushigarg01/Leetcode-75/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/khushigarg01/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |

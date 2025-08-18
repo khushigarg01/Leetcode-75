@@ -200,4 +200,16 @@ Happy Coding! 💻✨
 | [0394-decode-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/khushigarg01/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/khushigarg01/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/khushigarg01/Leetcode-75/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/khushigarg01/Leetcode-75/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/khushigarg01/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->

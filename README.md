@@ -91,6 +91,7 @@ Happy Coding! 💻✨
 | [0238-product-of-array-except-self](https://github.com/khushigarg01/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/khushigarg01/Leetcode-75/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/khushigarg01/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/khushigarg01/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
@@ -161,6 +162,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/khushigarg01/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/khushigarg01/Leetcode-75/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Bit Manipulation

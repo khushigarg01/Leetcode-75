@@ -221,5 +221,6 @@ Happy Coding! 💻✨
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/khushigarg01/Leetcode-75/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/khushigarg01/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

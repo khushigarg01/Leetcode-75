@@ -90,6 +90,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushigarg01/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0027-remove-element) |
+| [0073-set-matrix-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/khushigarg01/Leetcode-75/tree/master/0238-product-of-array-except-self) |
@@ -123,6 +124,7 @@ Happy Coding! 💻✨
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0073-set-matrix-zeroes) |
 | [0575-distribute-candies](https://github.com/khushigarg01/Leetcode-75/tree/master/0575-distribute-candies) |
 | [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 | [1319-unique-number-of-occurrences](https://github.com/khushigarg01/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
@@ -196,6 +198,7 @@ Happy Coding! 💻✨
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0073-set-matrix-zeroes) |
 | [2428-equal-row-and-column-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |

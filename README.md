@@ -215,6 +215,7 @@ Happy Coding! 💻✨
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/khushigarg01/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/khushigarg01/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -243,11 +244,13 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -257,5 +260,6 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->

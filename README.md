@@ -215,6 +215,7 @@ Happy Coding! 💻✨
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/khushigarg01/Leetcode-75/tree/master/0735-asteroid-collision) |
@@ -243,12 +244,14 @@ Happy Coding! 💻✨
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
@@ -259,6 +262,7 @@ Happy Coding! 💻✨
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |

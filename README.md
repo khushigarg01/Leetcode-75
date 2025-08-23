@@ -246,6 +246,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
@@ -253,6 +254,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -264,6 +266,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->

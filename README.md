@@ -251,6 +251,7 @@ Happy Coding! 💻✨
 | [0110-balanced-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -278,9 +279,11 @@ Happy Coding! 💻✨
 | [0110-balanced-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -111,6 +111,7 @@ Happy Coding! 💻✨
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/khushigarg01/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/khushigarg01/Leetcode-75/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/khushigarg01/Leetcode-75/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2428-equal-row-and-column-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
@@ -122,6 +123,7 @@ Happy Coding! 💻✨
 | [0334-increasing-triplet-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/khushigarg01/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/khushigarg01/Leetcode-75/tree/master/0649-dota2-senate) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2689-rearranging-fruits](https://github.com/khushigarg01/Leetcode-75/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
@@ -148,6 +150,7 @@ Happy Coding! 💻✨
 | [0724-find-pivot-index](https://github.com/khushigarg01/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/khushigarg01/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/khushigarg01/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/khushigarg01/Leetcode-75/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/khushigarg01/Leetcode-75/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Dynamic Programming
@@ -161,6 +164,7 @@ Happy Coding! 💻✨
 | [0900-reordered-power-of-2](https://github.com/khushigarg01/Leetcode-75/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/khushigarg01/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +174,7 @@ Happy Coding! 💻✨
 | [1046-max-consecutive-ones-iii](https://github.com/khushigarg01/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushigarg01/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/khushigarg01/Leetcode-75/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Binary Search
 |  |
@@ -178,6 +183,7 @@ Happy Coding! 💻✨
 | [0162-find-peak-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/khushigarg01/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/khushigarg01/Leetcode-75/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Bit Manipulation
 |  |

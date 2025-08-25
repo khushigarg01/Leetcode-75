@@ -82,6 +82,7 @@ Happy Coding! 💻✨
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/khushigarg01/Leetcode-75/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/khushigarg01/Leetcode-75/tree/master/0342-power-of-four) |
@@ -156,6 +157,7 @@ Happy Coding! 💻✨
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/khushigarg01/Leetcode-75/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khushigarg01/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
@@ -251,6 +253,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -279,6 +282,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khushigarg01/Leetcode-75/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -290,6 +294,7 @@ Happy Coding! 💻✨
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0096-unique-binary-search-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

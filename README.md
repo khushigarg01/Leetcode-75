@@ -93,6 +93,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushigarg01/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/khushigarg01/Leetcode-75/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0162-find-peak-element) |
@@ -297,4 +298,8 @@ Happy Coding! 💻✨
 | [0096-unique-binary-search-trees](https://github.com/khushigarg01/Leetcode-75/tree/master/0096-unique-binary-search-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/khushigarg01/Leetcode-75/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/khushigarg01/Leetcode-75/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

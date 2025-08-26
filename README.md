@@ -54,6 +54,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushigarg01/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/khushigarg01/Leetcode-75/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushigarg01/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
@@ -93,6 +94,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushigarg01/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/khushigarg01/Leetcode-75/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/khushigarg01/Leetcode-75/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/khushigarg01/Leetcode-75/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/khushigarg01/Leetcode-75/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushigarg01/Leetcode-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |

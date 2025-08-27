@@ -198,6 +198,7 @@ Happy Coding! 💻✨
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/khushigarg01/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/khushigarg01/Leetcode-75/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/khushigarg01/Leetcode-75/tree/master/0326-power-of-three) |
@@ -248,6 +249,7 @@ Happy Coding! 💻✨
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/khushigarg01/Leetcode-75/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/khushigarg01/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/khushigarg01/Leetcode-75/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/khushigarg01/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
